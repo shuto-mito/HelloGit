@@ -1,3 +1,0 @@
-Hello, Git!
-rewrote.
-branch test!
